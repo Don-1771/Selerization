@@ -29,7 +29,7 @@
   - QDataStream
   - QJsonDocument / QJsonObject
   - QXmlStreamReader / QXmlStreamWriter
-- CMake (при наличии сборки через CMake)
+- CMake
 
 ---
 
